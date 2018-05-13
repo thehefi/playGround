@@ -1,1 +1,4 @@
 # This is my 1st file in my local git repository
+#
+# It was created with nano, added with 'git add <filename>' (content was only the first line above),
+# afterwards the other text was added with nano and commited with 'git commit -m "Modification for 1st commit after 1st change"'
